@@ -84,8 +84,9 @@ main section:nth-child(3) div h2{
     transition: 350ms;
     }
 
-    button :hover{
-   background-color: indianred;
+    button:hover{
+   background-color: rgb(167, 89, 89);
+   color: indigo;
     }
 
 
